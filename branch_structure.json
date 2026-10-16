@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-573-150-pts-features-build-wallet-tagging-custom",
+    "feat/issue-573-150-pts-features-build-wallet-tagging-custom-r2",
+    "feat/issue-573-150-pts-features-build-wallet-tagging-custom-r3",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-573-150-pts-features-build-wallet-tagging-custom": "main",
+    "feat/issue-573-150-pts-features-build-wallet-tagging-custom-r2": "feat/issue-573-150-pts-features-build-wallet-tagging-custom",
+    "feat/issue-573-150-pts-features-build-wallet-tagging-custom-r3": "feat/issue-573-150-pts-features-build-wallet-tagging-custom",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-573-150-pts-features-build-wallet-tagging-custom",
+    "origin",
+    "feat/issue-573-150-pts-features-build-wallet-tagging-custom-r2",
+    "feat/issue-573-150-pts-features-build-wallet-tagging-custom-r3"
+  ]
+}
